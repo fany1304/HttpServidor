@@ -1,0 +1,26 @@
+{
+  "name": "proyecto01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://mirepositorio.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "proyecto"
+  ],
+  "author": "Fany",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*"
+  },
+  "devDependencies": {
+    "moment": "^2.15.1"
+  }
+}
